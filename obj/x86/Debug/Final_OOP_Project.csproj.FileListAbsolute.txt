@@ -1,0 +1,61 @@
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\bin\Debug\Final_OOP_Project.exe
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\bin\Debug\Final_OOP_Project.pdb
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form1.resources
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Properties.Resources.resources
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csproj.GenerateResource.Cache
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.exe
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.pdb
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form2.resources
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form3.resources
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form4.resources
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form5.resources
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form6.resources
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csprojResolveAssemblyReference.cache
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csproj.ResolveComReference.cache
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form7.resources
+C:\Users\Kamran\Desktop\C++\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form8.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Interop.WMPLib.dll
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csproj.ResolveComReference.cache
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.exe
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.pdb
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\bin\Debug\Final_OOP_Project.exe
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\bin\Debug\Final_OOP_Project.pdb
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\bin\Debug\Interop.WMPLib.dll
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\bin\Debug\AxInterop.WMPLib.dll
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csprojResolveAssemblyReference.cache
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form1.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form2.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form3.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form4.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form5.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form6.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form7.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form8.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Properties.Resources.resources
+D:\New Desktop 6\New desktop 4\Updtae 3 Final Oop project\Final_OOP_Project\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csproj.GenerateResource.Cache
+E:\New folder\Final_OOP_Project\bin\Debug\Final_OOP_Project.exe
+E:\New folder\Final_OOP_Project\bin\Debug\Final_OOP_Project.pdb
+E:\New folder\Final_OOP_Project\bin\Debug\Interop.WMPLib.dll
+E:\New folder\Final_OOP_Project\bin\Debug\AxInterop.WMPLib.dll
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csproj.AssemblyReference.cache
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Interop.WMPLib.dll
+E:\New folder\Final_OOP_Project\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csproj.ResolveComReference.cache
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form1.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form2.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form3.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form4.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form5.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form6.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form7.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Form8.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.Properties.Resources.resources
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csproj.GenerateResource.cache
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.csproj.CoreCompileInputs.cache
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.exe
+E:\New folder\Final_OOP_Project\obj\x86\Debug\Final_OOP_Project.pdb
